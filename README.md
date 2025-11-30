@@ -62,5 +62,5 @@ The system uses methods such as:
 ## ▶ How to Run the Program
 1. Install Python (version 3 recommended).  
 2. Save the program as `inventory_management_system.py`.  
-3. Run the file using:
+3. Run the file using: `python app.py`.
 
