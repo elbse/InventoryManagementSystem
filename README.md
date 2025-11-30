@@ -64,3 +64,11 @@ The system uses methods such as:
 2. Save the program as `inventory_management_system.py`.  
 3. Run the file using: `python app.py`.
 
+   
+---
+
+## 👨‍💻 Author - Charisse Priego
+
+*Submitted as a requirement for our first Laboratory Exam.*
+
+
