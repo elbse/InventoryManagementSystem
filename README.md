@@ -69,6 +69,5 @@ The system uses methods such as:
 
 ## 👨‍💻 Charisse Priego
 
-*Submitted as a requirement for our first Laboratory Exam.*
 
 
